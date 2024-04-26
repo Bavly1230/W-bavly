@@ -3,10 +3,10 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const axios = require('axios')
 
-const token = 'MTEyOTIyMzI5MDUyNzk2MTEzOA.G38nXw.o6KQ7p2-Tb3us5scB1G51pvCkTO-D2z84HoLmU'; //the bots token
-const clientId = '1129223290527961138'; //the bots client id// user id
+const token = 'tok'; //the bots token
+const clientId = 'id'; //the bots client id// user id
 const advertise = true; //if you want it to send server invite after command ran keep it true if not keep it false
-const serverinvite = "mocha kingdom private"; //server invite for when command ran it replies with server invite
+const serverinvite = "..."; //server invite for when command ran it replies with server invite
 const madeby = "devwhiz"; //for embed like "Made By {name}"
 const apikey = "bavlycoolbavlynicebavlyforervernevermuahahah";
 
